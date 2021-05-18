@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cpynes
-- 👀 I’m interested in emerging design tech
-- 🌱 I’m currently learning AR.js
+- 👀 I’m interested in emerging tech + design.
+- 🌱 I’m currently learning css, html, java, ar.js
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: here :)
 
